@@ -6,7 +6,7 @@ import './Square.css'
 const Square = () => {
 
 return(
-    <div className='square'>Square</div>
+    <div className='square'></div>
 )
 
 }
