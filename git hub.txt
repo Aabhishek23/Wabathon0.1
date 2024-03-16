@@ -1,0 +1,26 @@
+git init
+
+git add .
+
+git status
+
+git commit -m "file aded"
+
+git status
+
+git branch -M master
+
+git remote add origin https://github.com/Aabhishek23/Wabathon0.1.git
+
+git status
+
+git push -u origin master  
+
+git status
+
+
+
+
+
+
+
