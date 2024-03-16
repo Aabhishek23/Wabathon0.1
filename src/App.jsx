@@ -9,7 +9,7 @@ const App = () => {
 
     <div className="main-div">
       <div>
-        <h1 className="water-background">My First React App</h1>
+        <h1 className="game-heading water-background">My First React App</h1>
       </div>
 
     </div>
